@@ -105,6 +105,9 @@ Open http://localhost:3000 to view the app.
 <img width="944" height="445" alt="image" src="https://github.com/user-attachments/assets/b3d8392c-1631-467b-8e46-a189a2d1a753" />
 <img width="937" height="455" alt="image" src="https://github.com/user-attachments/assets/b85703e1-264a-4777-abde-c3507ad5cab9" />
 <img width="641" height="431" alt="image" src="https://github.com/user-attachments/assets/f264ae3a-8c3a-4e63-9b4e-4da2ecb6fdc1" />
+<img width="958" height="472" alt="image" src="https://github.com/user-attachments/assets/88e1f63c-b128-4ec4-b38b-dae57b407d15" />
+
+
 ### API used
 "https://api.api-ninjas.com/v1/quotes
 headers: {
